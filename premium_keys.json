@@ -1,0 +1,115 @@
+{
+  "keys": {
+    "HMB-ZV101ZTDNFX446V2T9HX": {
+      "expiry": "2026-06-24T15:54:10.887923",
+      "duration_days": 0.041666666666666664,
+      "redeemed_by": 7297484426,
+      "redeemed_at": "2026-06-24T14:54:35.396340",
+      "generated_at": "2026-06-24T14:54:10.887934",
+      "created_by": "admin"
+    },
+    "HMB-LQDI69MF3WQLL6A3ZS1T": {
+      "expiry": "2026-06-24T18:00:25.026476",
+      "duration_days": 0.125,
+      "redeemed_by": 2058493942,
+      "redeemed_at": "2026-06-24T15:00:38.380336",
+      "generated_at": "2026-06-24T15:00:25.026485",
+      "created_by": "admin"
+    },
+    "HMB-SLVPUOIVMZ305XL29KWU": {
+      "expiry": "2026-06-24T16:13:08.376179",
+      "duration_days": 0.041666666666666664,
+      "redeemed_by": 8046729144,
+      "redeemed_at": "2026-06-24T15:13:22.512585",
+      "generated_at": "2026-06-24T15:13:08.376192",
+      "created_by": "admin"
+    },
+    "HMB-CHJBUJR32IH5H14YJQUK": {
+      "expiry": "2026-06-25T01:24:11.771477",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 8046729144,
+      "redeemed_at": "2026-06-24T15:24:28.815998",
+      "generated_at": "2026-06-24T15:24:11.771487",
+      "created_by": "admin"
+    },
+    "HMB-TXVEGPMCZ5SAJFFJXNLT": {
+      "expiry": "2026-06-25T05:41:33.839690",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 7347070781,
+      "redeemed_at": "2026-06-24T19:41:53.194006",
+      "generated_at": "2026-06-24T19:41:33.839700",
+      "created_by": "admin"
+    },
+    "HMB-G9L292HP5UOSEDQ9XRVI": {
+      "expiry": "2026-07-01T03:04:42.327621",
+      "duration_days": 1,
+      "redeemed_by": 5911893656,
+      "redeemed_at": "2026-06-30T03:04:42.345055",
+      "generated_at": "2026-06-30T03:04:42.327630",
+      "created_by": "admin"
+    },
+    "HMB-ZOKOSVQU2Q4Z30DFWMMP": {
+      "expiry": "2026-07-03T04:48:48.103536",
+      "duration_days": 3,
+      "redeemed_by": 5911893656,
+      "redeemed_at": "2026-06-30T04:48:48.128260",
+      "generated_at": "2026-06-30T04:48:48.103545",
+      "created_by": "admin"
+    },
+    "HMB-UMDVZGYPX7RUTXJ9J06Q": {
+      "expiry": "2026-07-01T21:25:03.183034",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 7657866943,
+      "redeemed_at": "2026-07-01T11:26:02.314880",
+      "generated_at": "2026-07-01T11:25:03.183044",
+      "created_by": "admin"
+    },
+    "HMB-BP5YXTZLMRLNRF61SE8H": {
+      "expiry": "2026-07-01T21:25:32.983299",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 7347070781,
+      "redeemed_at": "2026-07-01T11:26:23.475079",
+      "generated_at": "2026-07-01T11:25:32.983309",
+      "created_by": "admin"
+    },
+    "HMB-BX950XFWUCE3FJ8351HG": {
+      "expiry": "2026-07-01T21:25:55.368824",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 8278468577,
+      "redeemed_at": "2026-07-01T11:26:24.746293",
+      "generated_at": "2026-07-01T11:25:55.368837",
+      "created_by": "admin"
+    },
+    "HMB-41RZ6ZE4775L2N2JGRNY": {
+      "expiry": "2026-07-01T22:12:09.140953",
+      "duration_days": 0.4166666666666667,
+      "redeemed_by": 7816755577,
+      "redeemed_at": "2026-07-01T12:15:08.188335",
+      "generated_at": "2026-07-01T12:12:09.140963",
+      "created_by": "admin"
+    },
+    "HMB-G3A4ZMDXRTWH9J700MR8": {
+      "expiry": "2026-07-03T15:14:37.568092",
+      "duration_days": 1,
+      "redeemed_by": 2083980716,
+      "redeemed_at": "2026-07-02T15:14:37.590256",
+      "generated_at": "2026-07-02T15:14:37.568102",
+      "created_by": "admin"
+    },
+    "HMB-2KR7XOI9LUITFI9A0FBJ": {
+      "expiry": "2026-07-10T01:31:27.505699",
+      "duration_days": 7,
+      "redeemed_by": 5911893656,
+      "redeemed_at": "2026-07-03T01:31:27.528022",
+      "generated_at": "2026-07-03T01:31:27.505710",
+      "created_by": "admin"
+    }
+  },
+  "stats": {
+    "leak_by_senseinoir": "Leak by @SenseiNoir | Channel: https://t.me/SenseiFall",
+    "total_keys": 13,
+    "redeemed": 13,
+    "total_checked": 8008850,
+    "total_hits": 113104
+  }
+}
