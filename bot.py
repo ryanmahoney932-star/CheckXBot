@@ -42,16 +42,13 @@ logging.getLogger("telegram").setLevel(logging.WARNING)
 # Configuration Constants
 class Config:
     """Bot Configuration"""
-    BOT_TOKEN = "8695510257:AAFQD-VI44wBiM7QQRFaPEA_ahJMyNmz-U4"
+    BOT_TOKEN = "8700339982:AAH35k_Yxvmvd0B8AKC3uYjbiyHa-1eywU8"
     
     ADMIN_IDS: List[int] = [
-        7502457749,
+        7453871784,
     ]
     
     REQUIRED_CHANNELS: List[Tuple[str, str]] = [
-        ("https://t.me/r5d5v", "r5d5v"),
-        ("https://t.me/JF_7F", "JF_7F"),
-    ("https://t.me/hyhymy", "hyhymy"),
     ]
     
     FORCE_CHANNEL_MEMBERSHIP: bool = True
