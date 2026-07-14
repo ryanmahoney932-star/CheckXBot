@@ -17,6 +17,11 @@ import shutil
 import warnings
 import uuid
 import requests
+import telegram.ext._updater as updater_module
+
+# Fix missing slot for broken python-telegram-bot versions
+if "_Updater__polling_cleanup_cb" not in updater_module.Updater.__slots__:
+    updater_module.Updater.__slots__ += ("_Updater__polling_cleanup_cb",)
 from datetime import datetime, timedelta
 from typing import Dict, List, Tuple, Optional, Any, Union, Set
 from concurrent.futures import ThreadPoolExecutor, as_completed
