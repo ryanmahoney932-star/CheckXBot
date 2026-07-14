@@ -3,7 +3,7 @@
 """
 Hotmail Master Bot - Main Entry Point
 Version: 7.7
-Author: @YourUsername
+Author: @@its_owner01
 Description: Advanced Hotmail/Outlook Multi-Tool Telegram Bot
 """
 
